@@ -6,6 +6,7 @@ The FMP project is to predict market trends for the exchange rate between the do
 
 ## Project Structure
 
+```
 fmp/
 |
 ├── data/
@@ -50,6 +51,9 @@ fmp/
 ├── main.py                       # Main script to run the pipeline
 ├── LICENSE                       # License file for the project
 └── .gitignore                    # Files and folders to ignore in version control
+
+```
+
 
 ## Tasks
 
