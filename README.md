@@ -57,77 +57,93 @@ fmp/
 
 ## Tasks
 
-1. **Define the Objective**
-**Goal**: Predict market trends for the exchange rate between the dollar and euros.
+### 1. **Define the Objective**
+
+**Goal**: Predict market trends for the exchange rate between the dollar and euros. <br>
+
 **Key Outputs**:
   * Predict whether the rate will go up, down, or stay flat (classification).
   * Predict the next rate value (regression).
   * Evaluation Metrics: Accuracy, RMSE (Root Mean Square Error), MAPE (Mean Absolute Percentage Error), etc.
 
-2. **Data Collection and Preparation**
+### 2. **Data Collection and Preparation**
+
 **Data Description:**
   * Exchange rate data (dummy data for now).
-  * Additional data (if applicable): interest rates, inflation rates, economic indicators, or financial news sentiment.
+  * Additional data (if applicable): interest rates, inflation rates, economic indicators, or financial news sentiment.<br>
+
 **Steps:**
   * Load and explore data (check for completeness, trends, and outliers).
   * Handle missing data (imputation or removal).
   * Perform feature engineering (e.g., moving averages, volatility, or lag features).
 
-3. **Exploratory Data Analysis (EDA)**
+### 3. **Exploratory Data Analysis (EDA)**
+
 **Visualizations:**
   * Time series plot of exchange rates.
   * Correlation analysis of features.
-  * Trend and seasonality analysis.
+  * Trend and seasonality analysis.<br>
+
 **Statistical Insights:**
   * Distribution of exchange rates.
   * Identify anomalies or structural breaks.
 
-4. **Model Selection**
+### 4. **Model Selection**
+
 **Baseline Models:**
   * Naive forecasting (e.g., last known value).
-  * Linear Regression.
+  * Linear Regression.<br>
+
 **Advanced Models:**
   * ARIMA or SARIMA for time series forecasting.
   * Machine Learning models: Random Forest, Gradient Boosting (e.g., XGBoost, LightGBM), or Neural Networks.
   * Deep Learning models: LSTMs or Transformers for time series.
 
-5. Model Training and Validation
+### 5. Model Training and Validation
+
 **Data Split**:
   * Train/test split (e.g., 80%/20%).
-  * Consider time series cross-validation.
+  * Consider time series cross-validation.<br>
+
 **Hyperparameter Tuning:**
   * Use Grid Search or Bayesian Optimization to optimize model parameters.
 
-6. Model Evaluation
+### 6. Model Evaluation
+
 **Use appropriate metrics:**
   * Regression: RMSE, MAPE.
-  * Classification: Accuracy, Precision, Recall, F1-Score.
+  * Classification: Accuracy, Precision, Recall, F1-Score.<br>
 Compare models against the baseline.
 
-8. Deployment Plan
+### 8. Deployment Plan
+
   * Build a prototype for real-time predictions.
   * Use tools like Flask or FastAPI for a backend API.
   * Consider visualization dashboards for live monitoring (e.g., Dash or Power BI).
 
-9. Documentation and Reporting
-* Summarize methodology, results, and insights.
-* Highlight potential business implications of the model predictions.
+### 9. Documentation and Reporting
+
+  * Summarize methodology, results, and insights.
+  * Highlight potential business implications of the model predictions.
 
 
 ## Getting Started 
 
 Clone the repository and navigate to the project folder:
-
+```
 git clone https://github.com/Beemnet/fmp.git
 cd fmp
+```
 
 ### Install dependencies:
 
+```
 pip install -r requirements.txt
-
+```
 Run the main pipeline:
-
+```
 python main.py
+```
 
 ## Contribution
 
