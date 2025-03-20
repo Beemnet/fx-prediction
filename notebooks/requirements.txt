@@ -1,0 +1,5 @@
+python==2.2.3
+matplotlib==3.10.1
+plotly==6.0.1x
+nbforma==5.10.4
+seaborn==0.13.2
