@@ -57,7 +57,7 @@ fmp/
 
 ## Tasks
 
-### 1. **Define the Objective**
+### 1. **Define the Objective** [DONE-ish]
 
 **Goal**: Predict market trends for the exchange rate between the dollar and euros. <br>
 
@@ -66,18 +66,18 @@ fmp/
   * Predict the next rate value (regression).
   * Evaluation Metrics: Accuracy, RMSE (Root Mean Square Error), MAPE (Mean Absolute Percentage Error), etc.
 
-### 2. **Data Collection and Preparation**
+### 2. **Data Collection and Preparation** [DOING]
 
 **Data Description:**
   * Exchange rate data (dummy data for now).
-  * Additional data (if applicable): interest rates, inflation rates, economic indicators, or financial news sentiment.<br>
+  * Additional data (if applicable): interest rates, inflation rates, economic indicators, or financial news sentiment. [NON-APPLICABLE for now]<br>
 
 **Steps:**
-  * Load and explore data (check for completeness, trends, and outliers).
-  * Handle missing data (imputation or removal).
-  * Perform feature engineering (e.g., moving averages, volatility, or lag features).
+  * Load and explore data (check for completeness, trends, and outliers). [DOING]
+  * Handle missing data (imputation or removal). [NON-APPLICABLE for now]
+  * Perform feature engineering (e.g., moving averages, volatility, or lag features). [DOING]
 
-### 3. **Exploratory Data Analysis (EDA)**
+### 3. **Exploratory Data Analysis (EDA)** [DOING]
 
 **Visualizations:**
   * Time series plot of exchange rates.
