@@ -134,7 +134,7 @@ python run_contextual.py```
 
 ## Tasks
 
-### 1. **Define the Objective**
+### 1. **Define the Objective** [DONE-ish]
 
 **Goal**: Predict market trends for the exchange rate between the dollar and euros. <br>
 
@@ -144,20 +144,18 @@ python run_contextual.py```
 - Predict the next rate value (regression).
 - Evaluation Metrics: Accuracy, RMSE (Root Mean Square Error), MAPE (Mean Absolute Percentage Error), etc.
 
-### 2. **Data Collection and Preparation**
+### 2. **Data Collection and Preparation** [DOING]
 
 **Data Description:**
-
 - Exchange rate data (dummy data for now).
 - Additional data (if applicable): interest rates, inflation rates, economic indicators, or financial news sentiment.<br>
 
 **Steps:**
+  * Load and explore data (check for completeness, trends, and outliers). [DOING]
+  * Handle missing data (imputation or removal).
+  * Perform feature engineering (e.g., moving averages, volatility, or lag features). [DOING]
 
-- Load and explore data (check for completeness, trends, and outliers).
-- Handle missing data (imputation or removal).
-- Perform feature engineering (e.g., moving averages, volatility, or lag features).
-
-### 3. **Exploratory Data Analysis (EDA)**
+### 3. **Exploratory Data Analysis (EDA)** [DOING]
 
 **Visualizations:**
 
