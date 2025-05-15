@@ -69,7 +69,7 @@ fmp/
 
 ## Description of the scraping scripts (5/8 Complete)
 
-### 🗂 Scraping Script Descriptions
+### Scraping Script Descriptions
 
 1. **`alpha_vantage.py`** – Fetches the current USD to EUR exchange rate, bid and ask prices using the Alpha Vantage API.
 
