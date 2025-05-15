@@ -217,9 +217,9 @@ python run_contextual.py
 
 Clone the repository and navigate to the project folder:
 
-````
+```
 
-git clone https://github.com/Beemnet/fmp.git
+git clone https://github.com/personal_forex/fmp.git
 cd fmp
 
 ```
@@ -242,15 +242,9 @@ python main.py
 
 ## Contribution
 
-Fork the repository.
-
-Create a feature branch.
-
-Commit your changes.
-
-Submit a pull request.
+Fork the repository or submit a pull request.
 
 ## License
 
-Permission to access, use, or modify this software is strictly limited to authorized individuals who have received prior written consent from [Your Name or Organization Name]. Any unauthorized access, use, modification, or distribution is strictly prohibited and subject to legal action.
+Permission to access, use, or modify this software is strictly limited to authorized individuals who have received prior written consent from personal_forex. Any unauthorized access, use, modification, or distribution is strictly prohibited and subject to legal action.
 ```
