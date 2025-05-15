@@ -129,8 +129,10 @@ python yahoo_finance.py
 
 4. Run contextual API requests and store responses
 
-````bash
-python run_contextual.py```
+```bash
+python run_contextual.py
+```
+
 
 ## Tasks
 
