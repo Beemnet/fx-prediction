@@ -69,7 +69,8 @@ fmp/
 
 ## Description of the scraping scripts (5/8 Complete)
 
-### 🗂 Scraping Script Descriptions
+
+### Scraping Script Descriptions
 
 1. **`alpha_vantage.py`** – Fetches the current USD to EUR exchange rate, bid and ask prices using the Alpha Vantage API.
 
@@ -129,8 +130,9 @@ python yahoo_finance.py
 
 4. Run contextual API requests and store responses
 
-````bash
-python run_contextual.py```
+```bash
+python run_contextual.py
+```
 
 ## Tasks
 
@@ -215,9 +217,10 @@ python run_contextual.py```
 
 Clone the repository and navigate to the project folder:
 
-````
 
-git clone https://github.com/Beemnet/fmp.git
+```
+
+git clone https://github.com/personal-forex/fmp.git
 cd fmp
 
 ```
@@ -240,15 +243,9 @@ python main.py
 
 ## Contribution
 
-Fork the repository.
-
-Create a feature branch.
-
-Commit your changes.
-
-Submit a pull request.
+Fork the repository or submit a pull request.
 
 ## License
 
-Permission to access, use, or modify this software is strictly limited to authorized individuals who have received prior written consent from [Your Name or Organization Name]. Any unauthorized access, use, modification, or distribution is strictly prohibited and subject to legal action.
-```
+Permission to access, use, or modify this software is strictly limited to authorized individuals who have received prior written consent from personal-forex. Any unauthorized access, use, modification, or distribution is strictly prohibited and subject to legal action.
+
