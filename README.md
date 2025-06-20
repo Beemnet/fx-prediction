@@ -29,7 +29,7 @@ fmp/
 │   │   ├── preprocess.py     # TODO: Preprocessing steps (e.g., normalization, encoding)
 │   │   ├── train.py          # TODO: Model training and saving
 │   │
-│   ├── scraping/
+│   ├── api_calls/            # TODO: Automation
 │   │   ├── alpha_vantage.py              # COMPLETE: Fetch and store USD/EUR exchange rate using Alpha Vantage
 │   │   ├── bingnews_fetch.py             # TODO: Query Bing News API
 │   │   ├── contextualweb_fetch.py        # COMPLETE: Contains modular functions for multiple RapidAPI sources
@@ -39,8 +39,12 @@ fmp/
 │   │   ├── run_contextual.py             # COMPLETE: Calls `contextualweb_fetch` functions with saved JSON dumps
 │   │   ├── yahoo_finance.py              # COMPLETE: Collect and store USD/EUR data using yfinance in multiple granularities
 │   │
+│   ├── scraping/             # TODO: Automation
+│   │   ├── google_news_scraper.py        # COMPLETE: iterate over the links found from the google news fetch, scrape and save the article contents
+│   │   ├── realtime_news_scraper.py      # COMPLETE: iterate over the links found from the realtime news fetch, scrape and save the article contents
+│   │   ├── scraper.ipynb                 # COMPLETE: generate a structured metadata (with the doman, url and date published) of the articles
+│   │
 │   ├── .env                     # Local environment variables
-│   ├── requirements.txt         # COMPLETE: Python package dependencies
 │
 ├── models/
 │   ├── saved_models/             # Serialized models (e.g., .pkl or .h5 files)
@@ -59,7 +63,7 @@ fmp/
 │   ├── figures/                  # Plots and graphs for reports
 │   └── final_report.pdf          # Final project report
 │
-├── requirements.txt              # List of Python dependencies
+├── requirements.txt              # List of Python dependencies for the whole project
 ├── README.md                     # Overview of the project
 ├── main.py                       # Main script to run the pipeline
 ├── LICENSE                       # License file for the project
@@ -69,7 +73,7 @@ fmp/
 
 ## Description of the scraping scripts (5/8 Complete)
 
-### 🗂 Scraping Script Descriptions
+### Api Calls Descriptions
 
 1. **`alpha_vantage.py`** – Fetches the current USD to EUR exchange rate, bid and ask prices using the Alpha Vantage API.
 
@@ -129,8 +133,9 @@ python yahoo_finance.py
 
 4. Run contextual API requests and store responses
 
-````bash
-python run_contextual.py```
+```bash
+python run_contextual.py
+```
 
 ## Tasks
 
@@ -147,13 +152,15 @@ python run_contextual.py```
 ### 2. **Data Collection and Preparation** [DOING]
 
 **Data Description:**
+
 - Exchange rate data (dummy data for now).
 - Additional data (if applicable): interest rates, inflation rates, economic indicators, or financial news sentiment.<br>
 
 **Steps:**
-  * Load and explore data (check for completeness, trends, and outliers). [DOING]
-  * Handle missing data (imputation or removal).
-  * Perform feature engineering (e.g., moving averages, volatility, or lag features). [DOING]
+
+- Load and explore data (check for completeness, trends, and outliers). [DOING]
+- Handle missing data (imputation or removal).
+- Perform feature engineering (e.g., moving averages, volatility, or lag features). [DOING]
 
 ### 3. **Exploratory Data Analysis (EDA)** [DOING]
 
@@ -215,9 +222,9 @@ python run_contextual.py```
 
 Clone the repository and navigate to the project folder:
 
-````
+```
 
-git clone https://github.com/Beemnet/fmp.git
+git clone https://github.com/personal-forex/fmp.git
 cd fmp
 
 ```
@@ -240,15 +247,8 @@ python main.py
 
 ## Contribution
 
-Fork the repository.
-
-Create a feature branch.
-
-Commit your changes.
-
-Submit a pull request.
+Fork the repository or submit a pull request.
 
 ## License
 
-Permission to access, use, or modify this software is strictly limited to authorized individuals who have received prior written consent from [Your Name or Organization Name]. Any unauthorized access, use, modification, or distribution is strictly prohibited and subject to legal action.
-```
+Permission to access, use, or modify this software is strictly limited to authorized individuals who have received prior written consent from personal-forex. Any unauthorized access, use, modification, or distribution is strictly prohibited and subject to legal action.
