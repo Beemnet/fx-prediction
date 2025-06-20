@@ -29,7 +29,7 @@ fmp/
 │   │   ├── preprocess.py     # TODO: Preprocessing steps (e.g., normalization, encoding)
 │   │   ├── train.py          # TODO: Model training and saving
 │   │
-│   ├── scraping/
+│   ├── api_calls/            # TODO: Automation
 │   │   ├── alpha_vantage.py              # COMPLETE: Fetch and store USD/EUR exchange rate using Alpha Vantage
 │   │   ├── bingnews_fetch.py             # TODO: Query Bing News API
 │   │   ├── contextualweb_fetch.py        # COMPLETE: Contains modular functions for multiple RapidAPI sources
@@ -39,8 +39,12 @@ fmp/
 │   │   ├── run_contextual.py             # COMPLETE: Calls `contextualweb_fetch` functions with saved JSON dumps
 │   │   ├── yahoo_finance.py              # COMPLETE: Collect and store USD/EUR data using yfinance in multiple granularities
 │   │
+│   ├── scraping/             # TODO: Automation
+│   │   ├── google_news_scraper.py        # COMPLETE: iterate over the links found from the google news fetch, scrape and save the article contents
+│   │   ├── realtime_news_scraper.py      # COMPLETE: iterate over the links found from the realtime news fetch, scrape and save the article contents
+│   │   ├── scraper.ipynb                 # COMPLETE: generate a structured metadata (with the doman, url and date published) of the articles
+│   │
 │   ├── .env                     # Local environment variables
-│   ├── requirements.txt         # COMPLETE: Python package dependencies
 │
 ├── models/
 │   ├── saved_models/             # Serialized models (e.g., .pkl or .h5 files)
@@ -59,7 +63,7 @@ fmp/
 │   ├── figures/                  # Plots and graphs for reports
 │   └── final_report.pdf          # Final project report
 │
-├── requirements.txt              # List of Python dependencies
+├── requirements.txt              # List of Python dependencies for the whole project
 ├── README.md                     # Overview of the project
 ├── main.py                       # Main script to run the pipeline
 ├── LICENSE                       # License file for the project
@@ -69,7 +73,7 @@ fmp/
 
 ## Description of the scraping scripts (5/8 Complete)
 
-### 🗂 Scraping Script Descriptions
+### Api Calls Descriptions
 
 1. **`alpha_vantage.py`** – Fetches the current USD to EUR exchange rate, bid and ask prices using the Alpha Vantage API.
 
