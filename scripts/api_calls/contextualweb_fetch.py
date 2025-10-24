@@ -147,7 +147,6 @@ def call_fetch_topic_news(api_key, api_host):
         fetch_news_data(full_story_url, api_host, api_key)
 
 
-# === Example call ===
 if __name__ == "__main__":
     api_key = os.getenv("RAPIDAPI_KEY")
     

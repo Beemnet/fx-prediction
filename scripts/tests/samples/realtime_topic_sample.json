@@ -1,0 +1,99 @@
+{
+    "status": "OK",
+    "request_id": "cc1a78b7-3b22-4f78-a778-ec51a6f6f338",
+    "data": [
+        {
+            "title": "Zelenskiy weighs next step as Putin's no-show throws Ukraine talks into confusion",
+            "link": "https://www.reuters.com/world/europe/putin-trump-skip-ukraines-peace-talks-that-russian-leader-proposed-2025-05-14/",
+            "snippet": "He said Ukraine would decide its next move on talks with Russia after he had met Turkish President Tayyip Erdogan. \"We need to understand what ...",
+            "photo_url": "https://www.reuters.com/resizer/v2/DEKIMFMXTNORFJBPTA3GDQJ3FU.jpg?auth=d63f347bcb0373fb2c8fafe1df718374876aaccd997594597a7d597b2cd87356",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpZbmM0VWpFNE5FMDFXbmRXVFJERUF4aW1CU2dLTWdZcFpJcVBNUVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-15T10:24:06.000Z",
+            "authors": [
+                "Vladimir Soldatkin",
+                "Tom Balmforth"
+            ],
+            "source_url": "https://www.reuters.com",
+            "source_name": "Reuters",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YTJKaWVUVnNZeElDWlc0b0FBUAE",
+                    "topic_name": "Vladimir Soldatkin"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKa1pHWjZYeElDWlc0b0FBUAE",
+                    "topic_name": "Tom Balmforth"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Putin to skip Ukraine talks as confusion swirls in Turkey",
+                    "link": "https://www.cnn.com/world/live-news/ukraine-russia-talks-istanbul-turkey-intl",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/20240915-putin-zelensky-split.jpg?c=original&q=w_1280,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDNSRk5wWmtSWmJ6VXhNbVZRVFJDb0FSaXNBaWdCTWdrUmNvNzFzT2FwckFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-15T10:05:00.000Z",
+                    "authors": [
+                        "Ivana Kottasova"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4TW5oek16azFPUklDWlc0b0FBUAE",
+                            "topic_name": "Ivana Kottasova"
+                        }
+                    ]
+                },
+                {
+                    "title": "Putin skips out on the direct Ukraine peace talks that he suggested",
+                    "link": "https://www.nbcnews.com/world/ukraine/putin-trump-zelenskyy-ukraine-russia-peace-turkey-istanbul-ankara-rcna206961",
+                    "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-05/250515-PutinRS-5e3e4f.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBNbEpZVmtRMGNWOUdkMlpTVFJERUF4aW1CU2dLTWdZMWRJcHdyUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-15T10:21:21.000Z",
+                    "authors": [
+                        "Mithil Aggarwal"
+                    ],
+                    "source_url": "https://www.nbcnews.com",
+                    "source_name": "NBC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwWkdRMWEzQm9NUklDWlc0b0FBUAE",
+                            "topic_name": "Mithil Aggarwal"
+                        }
+                    ]
+                },
+                {
+                    "title": "Putin and Trump leave Zelenskyy in the dust, skipping peace talks in Turkey",
+                    "link": "https://www.cnbc.com/2025/05/15/putin-and-trump-wont-attend-peace-talks-with-ukraines-zelenskyy.html",
+                    "photo_url": "https://image.cnbcfm.com/api/v1/image/108058751-1730893322712-gettyimages-1000192452-AFP_17Q368.jpeg?v=1740101128&w=1600&h=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW9TRGh5T0U4dFNESkRWMXBNVFJDZkF4ampCU2dLTWdrUk1wcUhLbWc5aGdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-15T06:50:27.000Z",
+                    "authors": [
+                        "Holly Ellyatt"
+                    ],
+                    "source_url": "https://www.cnbc.com",
+                    "source_name": "CNBC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR051WW1NdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGNVoza3pkeElDWlc0b0FBUAE",
+                            "topic_name": "Holly Ellyatt"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lmN2FUdERSRU9vajFFak15MnF5Z0FQAQ"
+        }
+    ]
+}

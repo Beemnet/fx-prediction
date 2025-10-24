@@ -1,0 +1,43 @@
+{
+    "status": "OK",
+    "request_id": "1abc8b04-7323-423a-80be-2b007dcb25ea",
+    "data": {
+        "top_news": [],
+        "all_articles": [
+            {
+                "title": "Michigan man arrested for alleged plot to conduct mass shooting at Army base",
+                "link": "https://localnews8.com/politics/cnn-us-politics/2025/05/14/michigan-man-arrested-for-alleged-plot-to-conduct-mass-shooting-at-army-base/",
+                "snippet": "Said has been charged with attempting to provide material support to a foreign terrorist organization and with distributing information related ...",
+                "photo_url": null,
+                "thumbnail_url": null,
+                "published_datetime_utc": "2025-05-14T21:33:45.000Z",
+                "authors": [
+                    "Sean Lyngaas"
+                ],
+                "source_url": "https://localnews8.com",
+                "source_name": "Local News 8",
+                "source_logo_url": null,
+                "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://localnews8.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbXh2WTJGc2JtVjNjemd1WTI5dEtBQVAB",
+                "related_topics": []
+            },
+            {
+                "title": "Michigan man arrested for alleged plot to conduct mass shooting at Army base",
+                "link": "https://krdo.com/politics/cnn-us-politics/2025/05/14/michigan-man-arrested-for-alleged-plot-to-conduct-mass-shooting-at-army-base/",
+                "snippet": "Said has been charged with attempting to provide material support to a foreign terrorist organization and with distributing information related ...",
+                "photo_url": "https://krdo.b-cdn.net/2025/05/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWFvNjU2MXIwMDAxM2I2bWUxcTZvdTlu-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtYW81ZzI0bTAwMXQyN25wZzh4MTgwN2g.jpg",
+                "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNUdTbnB5YUZoeldsVmhSRlZ2VFJDN0FSaU5BaWdCTWdB=-w200-h200-p-df-rw",
+                "published_datetime_utc": "2025-05-14T20:42:04.000Z",
+                "authors": [
+                    "Sean Lyngaas"
+                ],
+                "source_url": "https://krdo.com",
+                "source_name": "KRDO",
+                "source_logo_url": null,
+                "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://krdo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR3R5Wkc4dVkyOXRLQUFQAQ",
+                "related_topics": []
+            }
+        ]
+    }
+}

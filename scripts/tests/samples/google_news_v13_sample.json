@@ -1,0 +1,85 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "timestamp": "1747284480000",
+            "title": "Apple Vision Pro Price Guessed Incorrectly Multiple Times On ‘The Price Is Right’ Show For The 256GB Version, Despite The Headset Garnering Massive Attention Worldwide",
+            "snippet": "The Apple Vision Pro is a product that generated massive hype, but even then, contestants on The Price Is Right show guessed its price incorrectly.",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU1Uelp3WlRZNFQydFhUell0VFJDZkF4ampCU2dLTWdhcE5KU3VwUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNU1Uelp3WlRZNFQydFhUell0VFJDZkF4ampCU2dLTWdhcE5KU3VwUWM"
+            },
+            "subnews": [
+                {
+                    "timestamp": "1747301400000",
+                    "title": "They Paid $3,500 for Apple’s Vision Pro. A Year Later, It Still Hurts.",
+                    "snippet": "The mixed-reality headset launched last year with great promise, but all these buyers got were dirty looks and sore necks; 'I don't need that'",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVlTbGRxVW05cU9IbElZUzFYVFJEZ0F4aUFCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNVlTbGRxVW05cU9IbElZUzFYVFJEZ0F4aUFCU2dLTWdB"
+                    },
+                    "newsUrl": "https://www.wsj.com/tech/they-paid-3-500-for-apples-vision-pro-a-year-later-it-still-hurts-496de341",
+                    "publisher": "WSJ"
+                },
+                {
+                    "timestamp": "1747256880000",
+                    "title": "Macworld Podcast: State of the visionOS and Apple Vision Pro",
+                    "snippet": "When WWDC rolls around in June, it'll be two years since Apple announced visionOS and the Apple Vision Pro. In this episode of the Macworld Podcast,...",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXFkVkpZUkZOeGRDMDJkMG8yVFJERUF4aW1CU2dLTWdtSlFvN0dKcWxNYVFJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNXFkVkpZUkZOeGRDMDJkMG8yVFJERUF4aW1CU2dLTWdtSlFvN0dKcWxNYVFJ"
+                    },
+                    "newsUrl": "https://www.macworld.com/article/2778987/visionos-apple-vision-pro-macworld-podcast.html",
+                    "publisher": "Macworld"
+                },
+                {
+                    "timestamp": "1747234727000",
+                    "title": "Apple Vision Pro one year later: the $3,500 headset that still divides tech users in 2025",
+                    "snippet": "Is Apple's mixed reality headset a revolutionary marvel or an overpriced novelty? One year after its launch, the Apple Vision Pro continues to polarize tech...",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUdkV3RaVUVkdlVsVlphekJVVFJES0F4aWVCU2dLTWdhVlpJNlBwUWM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUdkV3RaVUVkdlVsVlphekJVVFJES0F4aWVCU2dLTWdhVlpJNlBwUWM"
+                    },
+                    "newsUrl": "https://www.journee-mondiale.com/en/apple-vision-pro-one-year-later-the-3500-headset-that-still-divides-tech-users-in-2025/",
+                    "publisher": "Journée Mondiale"
+                },
+                {
+                    "timestamp": "1747291820000",
+                    "title": "Price is Right contestants send Apple a thinly-veiled message about Vision Pro pricing",
+                    "snippet": "The Price is Right is known for its iconic \"Come on down\" phrase. Contestants try to guess the price of a product, and the one who comes closest to the...",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTZRMUkxU1dZeWRIQnZjblpKVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNTZRMUkxU1dZeWRIQnZjblpKVFJDZkF4ampCU2dLTWdB"
+                    },
+                    "newsUrl": "https://www.phonearena.com/news/price-is-right-contestants-send-apple-a-message-about-vision-pro-pricing_id170395",
+                    "publisher": "PhoneArena"
+                },
+                {
+                    "timestamp": "1746562570000",
+                    "title": "Half the Size & Half the Price is What Vision Pro Needs to Take Off",
+                    "snippet": "Apple has set the bar for UX on a standalone headset. As soon as the company can get the same experience into a smaller and cheaper package, it's going to...",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTZlSGsxWWxSak9VSTFSa2d6VFJDZkF4ampCU2dLTWdtSllaVG5yS2VocWdJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNTZlSGsxWWxSak9VSTFSa2d6VFJDZkF4ampCU2dLTWdtSllaVG5yS2VocWdJ"
+                    },
+                    "newsUrl": "https://www.roadtovr.com/half-the-size-half-the-price-is-what-vision-pro-needs-to-take-off/",
+                    "publisher": "Road to VR"
+                },
+                {
+                    "timestamp": "1746950462000",
+                    "title": "Apple Vision Pro: Future of Mixed Reality or Just Pricey Toy?",
+                    "snippet": "Find out what makes the Apple Vision Pro innovative, its immersive experience, and a debate about whether it is worth the price tag in the mixed reality...",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDRiWFZUWmkxcVFXTlBlalZQVFJEX0JCamdBeWdLTWdhUlFaWXVwUWc=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDRiWFZUWmkxcVFXTlBlalZQVFJEX0JCamdBeWdLTWdhUlFaWXVwUWc"
+                    },
+                    "newsUrl": "https://www.analyticsinsight.net/ampstories/gadgets/apple-vision-pro-future-of-mixed-reality-or-just-pricey-toy",
+                    "publisher": "Analytics Insight"
+                }
+            ],
+            "hasSubnews": true,
+            "newsUrl": "https://wccftech.com/apple-vision-pro-price-guessed-incorrectly-on-the-price-is-right-show/",
+            "publisher": "Wccftech"
+        }
+    ]
+}
