@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "DocumentIdentifier": "https://example.com/1",
+      "title": "ECB raises rates",
+      "timestamp": "1735689600"
+    },
+    {
+      "DocumentIdentifier": "https://example.com/2",
+      "title": "Inflation remains high",
+      "timestamp": "1735776000"
+    }
+  ]
+}
