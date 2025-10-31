@@ -11,7 +11,7 @@ def test_load_daily_forex():
     df = loader.load()
 
     assert not df.empty
-    assert list(df.columns) == ["date", "open", "high", "low", "close", "volumne", "datetime"]
+    assert list(df.columns) == ["date", "open", "high", "low", "close", "volume", "datetime"]
     assert pd.api.types.is_datetime64_any_dtype(df["datetime"])
 
 
