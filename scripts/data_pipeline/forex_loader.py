@@ -17,7 +17,7 @@ class ForexLoader:
         self.path = path
         self.granularity = granularity
 
-    def load(self, path: str) -> pd.DataFrame:
+    def load(self) -> pd.DataFrame:
         df = pd.read_csv(self.path, header=None, names=self.HEADERS[self.granularity])
         if self.granularity == "day":
             df["datetime"] = pd.to_datetime(df["date"], format="%Y%m%d")
